@@ -1,0 +1,46 @@
+#top{
+  border:100px solid #0000FF;
+margin-left  :70px;
+  width: 400px;
+  background-color: #0000FF;
+}
+
+#bottom{
+border:100px solid #FF01FF;
+margin-left  :70px;
+width: 400px;
+background-color:#FF01FF;
+}
+#hi{
+  border:100px solid #80FF01;
+  margin-left :70px;
+  width: 400px;
+  background-color: #80FF01;
+}
+
+#two{
+  border:100px solid #FFFE04;
+  margin-left  :70px;
+  width: 400px;
+  background-color: #FFFE04;
+}
+
+#s{
+  border:100px solid #E59000;
+  margin-left :70px;
+  width: 400px;
+  background-color: #E59000;
+}
+body{
+    background: url(https://i.pinimg.com/736x/6e/f3/92/6ef392e37c17607009538b6ec5966b6a.jpg)
+}
+
+a{
+  color: red;
+    font-family: 'Gloria Hallelujah';
+}
+p{
+  color: darkred;
+  font-size: 30px;
+  font-family: 'Gloria Hallelujah';
+}
